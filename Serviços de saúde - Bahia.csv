@@ -1,0 +1,134 @@
+Nível;Indicador;2009;Unidade
+1;Estabelecimentos de Saúde;8188;estabelecimentos
+1.1;Atendimento de emergência;583;estabelecimentos
+1.1.1;Especialidade médica;;
+1.1.1.1;Cirurgia bucomaxilofacial;41;estabelecimentos
+1.1.1.2;Clínica médica;497;estabelecimentos
+1.1.1.3;Neurocirurgia;30;estabelecimentos
+1.1.1.4;Obstetrícia;336;estabelecimentos
+1.1.1.5;Pediatria;348;estabelecimentos
+1.1.1.6;Psiquiatria;69;estabelecimentos
+1.1.1.7;Traumato-ortopedia;258;estabelecimentos
+1.1.1.8;Outras especialidades cirúrgicas;140;estabelecimentos
+1.1.1.9;Outros;44;estabelecimentos
+1.2;Categoria do estabelecimento;;
+1.2.1;Geral;;
+1.2.1.1;Tipo de atendimento;;
+1.2.1.1.1;Com internação;228;estabelecimentos
+1.2.1.1.1.1;Esfera administrativa;;
+1.2.1.1.1.1.1;Público;125;estabelecimentos
+1.2.1.1.1.1.2;Privado;103;estabelecimentos
+1.2.1.1.1.1.2.1;SUS;87;estabelecimentos
+1.2.1.1.2;Sem internação;3930;estabelecimentos
+1.2.1.1.2.1;Esfera administrativa;;
+1.2.1.1.2.1.1;Público;3890;estabelecimentos
+1.2.1.1.2.1.2;Privado;40;estabelecimentos
+1.2.1.1.2.1.2.1;SUS;15;estabelecimentos
+1.2.2;Com especialidades;;
+1.2.2.1;Tipo de atendimento;;
+1.2.2.1.1;Com internação;311;estabelecimentos
+1.2.2.1.1.1;Esfera administrativa;;
+1.2.2.1.1.1.1;Público;168;estabelecimentos
+1.2.2.1.1.1.2;Privado;143;estabelecimentos
+1.2.2.1.1.1.2.1;SUS;96;estabelecimentos
+1.2.2.1.2;Sem internação;1620;estabelecimentos
+1.2.2.1.2.1;Esfera administrativa;;
+1.2.2.1.2.1.1;Público;440;estabelecimentos
+1.2.2.1.2.1.2;Privado;1180;estabelecimentos
+1.2.2.1.2.1.2.1;SUS;256;estabelecimentos
+1.2.3;Especializado;;
+1.2.3.1;Tipo de atendimento;;
+1.2.3.1.1;Com internação;39;estabelecimentos
+1.2.3.1.1.1;Esfera administrativa;;
+1.2.3.1.1.1.1;Público;11;estabelecimentos
+1.2.3.1.1.1.2;Privado;28;estabelecimentos
+1.2.3.1.1.1.2.1;SUS;19;estabelecimentos
+1.2.3.1.2;Sem internação;2060;estabelecimentos
+1.2.3.1.2.1;Esfera administrativa;;
+1.2.3.1.2.1.1;Público;146;estabelecimentos
+1.2.3.1.2.1.2;Privado;1914;estabelecimentos
+1.2.3.1.2.1.2.1;SUS;431;estabelecimentos
+1.3;Esfera administrativa;;
+1.3.1;Privado;3408;estabelecimentos
+1.3.1.1;Com fins lucrativos;3242;estabelecimentos
+1.3.1.2;Sem fins lucrativos;166;estabelecimentos
+1.3.1.3;SUS;904;estabelecimentos
+1.3.2;Público;4780;estabelecimentos
+1.3.2.1;Federal;25;estabelecimentos
+1.3.2.2;Estadual;69;estabelecimentos
+1.3.2.3;Municipal;4686;estabelecimentos
+1.4;Modalidade de prestação de serviço;;
+1.4.1;Particular;3298;estabelecimentos
+1.4.2;Plano de terceiros;2698;estabelecimentos
+1.4.3;Plano próprio;100;estabelecimentos
+1.4.4;SUS;5673;estabelecimentos
+1.4.4.1;SUS Ambulatorial;4864;estabelecimentos
+1.4.4.2;SUS Diálise;44;estabelecimentos
+1.4.4.3;SUS Emergência;498;estabelecimentos
+1.4.4.4;SUS Internação;489;estabelecimentos
+1.4.4.5;SUS UTI/CTI;43;estabelecimentos
+1.5;Tipo de atendimento;;
+1.5.1;Com internação;578;estabelecimentos
+1.5.1.1;Esfera administrativa;;
+1.5.1.1.1;Público;304;estabelecimentos
+1.5.1.1.2;Privado;274;estabelecimentos
+1.5.1.1.2.1;SUS;202;estabelecimentos
+1.5.2;Sem internação;6498;estabelecimentos
+1.5.2.1;Esfera administrativa;;
+1.5.2.1.1;Público;4379;estabelecimentos
+1.5.2.1.2;Privado;2119;estabelecimentos
+1.5.2.1.2.1;SUS;341;estabelecimentos
+1.6;Tipo de especialidade;;
+1.6.1;Atendimento ambulatorial;6760;estabelecimentos
+1.6.1.1;Sem atendimento médico;822;estabelecimentos
+1.6.1.2;Com especialidades médicas básicas;5159;estabelecimentos
+1.6.1.3;Com outras especialidades médicas;1915;estabelecimentos
+1.6.1.4;Com atendimento odontológico;2876;estabelecimentos
+1.6.2;Serviços de apoio à diagnose e terapia - SADT;1112;estabelecimentos
+1.6.2.1;Esfera administrativa;;
+1.6.2.1.1;Público;97;estabelecimentos
+1.6.2.1.2;Privado;1015;estabelecimentos
+1.6.2.1.2.1;SUS;361;estabelecimentos
+1.7;Tipo de estabelecimento;;
+1.7.1;Único;8034;estabelecimentos
+1.7.1.1;Esfera administrativa;;
+1.7.1.1.1;Público;4765;estabelecimentos
+1.7.1.1.2;Privado;3269;estabelecimentos
+1.7.1.1.2.1;SUS;858;estabelecimentos
+1.7.2;Terceirizado;225;estabelecimentos
+1.7.2.1;Esfera administrativa;;
+1.7.2.1.1;Público;2;estabelecimentos
+1.7.2.1.2;Privado;223;estabelecimentos
+1.7.2.1.2.1;SUS;62;estabelecimentos
+1.7.3;Com terceirização;154;estabelecimentos
+1.7.3.1;Esfera administrativa;;
+1.7.3.1.1;Público;15;estabelecimentos
+1.7.3.1.2;Privado;139;estabelecimentos
+1.7.3.1.2.1;SUS;46;estabelecimentos
+2;Equipamentos;;
+2.1;Eletrocardiógrafo;1300;equipamentos
+2.2;Eletroencefalógrafo;253;equipamentos
+2.3;Equipamento de hemodiálise;1159;equipamentos
+2.4;Mamógrafo;;
+2.4.1;Com comando simples;216;equipamentos
+2.4.2;Com estéreo-taxia;45;equipamentos
+2.5;Raio X;;
+2.5.1;Até 100mA;315;equipamentos
+2.5.2;100 a 500mA;561;equipamentos
+2.5.3;Mais de 500mA;135;equipamentos
+2.6;Raio X para densitometria óssea;60;equipamentos
+2.7;Ressonância magnética;47;equipamentos
+2.8;Tomógrafo;122;equipamentos
+2.9;Ultrassom doppler colorido;737;equipamentos
+3;Número de leitos para internação em estabelecimentos de saúde;29106;leitos
+3.1;Esfera administrativa;;
+3.1.1;Público;13241;leitos
+3.1.1.1;Federal;632;leitos
+3.1.1.2;Estadual;3990;leitos
+3.1.1.3;Municipal;8619;leitos
+3.1.2;Privado;15865;leitos
+3.1.2.1;SUS;13738;leitos
+
+
+
+Fonte: IBGE, Assistência Médica Sanitária 2009. Rio de Janeiro: IBGE, 2010
